@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fa",
+  "name": "Fallout: Equestria",
+  "description": "An adventure-tastic Fallout: Equestria mod!",
+  "version": "${1.0}",
+  "mcversion": "${1.12.1}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ayden Johnson"],
+  "credits": "Credit to me for making the mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
